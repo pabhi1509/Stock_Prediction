@@ -1,1 +1,1 @@
-# Stock_Prediction
+# Stock-Price-Prediction-based-on-Numerical-and-Textual-Analysis
